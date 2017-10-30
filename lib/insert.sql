@@ -26,7 +26,6 @@ INSERT INTO users (name, age) VALUES ("Cheryl", 36);
 INSERT INTO users (name, age) VALUES ("Shirley", 56);
 INSERT INTO users (name, age) VALUES ("Peyton", 53);
 INSERT INTO users (name, age) VALUES ("Leah", 55);
-INSERT INTO users (name, age) VALUES ("Ethan", 59);
 INSERT INTO users (name, age) VALUES ("Brittany", 21);
 INSERT INTO users (name, age) VALUES ("Danny", 26);
 INSERT INTO users (name, age) VALUES ("Fred", 73);
